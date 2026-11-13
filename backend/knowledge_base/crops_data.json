@@ -1,0 +1,232 @@
+[
+  {
+    "crop": "Tomato",
+    "disease_or_topic": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "pathogen_type": "Fungal",
+    "symptoms": "Dark brown to black necrotic spots with characteristic concentric rings ('target-board' or 'bullseye' appearance) primarily starting on older lower foliage. Surrounding leaf tissue often turns chlorotic/yellow. As lesions expand, leaves collapse, dry out and drop prematurely.",
+    "causes": "Warm temperatures (24°C to 29°C) accompanied by extended leaf wetness, heavy dews, frequent rain, or overhead sprinkler irrigation. Survives in infected crop debris in soil.",
+    "organic_remedies": "Foliar spray of Trichoderma viride or Pseudomonas fluorescens (20g/L); cold-pressed neem seed oil (5ml/L with emulsifier); dilute milk whey spray (1:9 ratio with water) for mild initial pressure.",
+    "chemical_guidelines": "Advisory note: Apply protective fungicides like Mancozeb 75% WP or Chlorothalonil early in the season before canopy closure, followed by Azoxystrobin or Difenoconazole if systemic control is indicated. Always adhere to local pre-harvest intervals and consult local agricultural extension officers.",
+    "preventive_measures": "Implement 3-year crop rotation avoiding Solanaceae family members (potatoes, eggplants, peppers). Use drip irrigation to prevent splash dispersal. Stake and prune suckers to promote airflow. Mulch soil surface to prevent soil spores from splashing onto lower leaves.",
+    "alternative_causes": [
+      "Septoria leaf spot (smaller spots with grey centers and black pycnidia)",
+      "Bacterial spot (water-soaked lesions without distinct target rings)",
+      "Potassium deficiency (marginal leaf chlorosis followed by necrosis without concentric rings)"
+    ],
+    "sources": "ICAR-Indian Institute of Horticultural Research (IIHR) Tomato Disease Guide; FAO Plant Protection Division Bulletin #48",
+    "tags": "fungal, leaf spot, target rings, blight, solanaceae"
+  },
+  {
+    "crop": "Tomato",
+    "disease_or_topic": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "pathogen_type": "Oomycete / Fungal-like",
+    "symptoms": "Large, irregular water-soaked pale-green to brown lesions appearing quickly on leaves and stems. Under cool humid conditions, a delicate white fuzzy fungal growth (sporulation) appears on the underside of leaves. Stems exhibit dark greasy lesions causing sudden collapse of branches.",
+    "causes": "Cool, humid and rainy weather (15°C to 21°C) with continuous relative humidity above 85-90%. Pathogen spreads rapidly via airborne sporangia and rain splash.",
+    "organic_remedies": "Bordeaux mixture (1%) preventive foliar application; Copper oxychloride (2.5g/L); compost tea foliar spray to bolster phyllosphere microbial competition.",
+    "chemical_guidelines": "Advisory note: Preventive contact fungicides (e.g., Mancozeb, Propineb) prior to symptom outbreak. Systemic intervention with Cymoxanil + Mancozeb or Metalaxyl-M under severe weather pressure according to state agricultural university package of practices.",
+    "preventive_measures": "Plant certified disease-free seedlings or resistant varieties. Avoid late evening irrigation. Destroy infected wild solanaceous weeds (e.g., black nightshade). Remove and bury infected plants immediately to prevent neighborhood spore propagation.",
+    "alternative_causes": [
+      "Early blight (distinguished by concentric target rings and preference for warmer weather)",
+      "Frost injury (rapid collapse of tissue without white sporulation on leaf underside)",
+      "Gray mold / Botrytis (fuzzy grey-brown mold typically centered around floral parts)"
+    ],
+    "sources": "World Vegetable Center (AVRDC) Factsheet on Tomato Late Blight; University of California IPM Guidelines",
+    "tags": "oomycete, late blight, high humidity, water-soaked, stem rot"
+  },
+  {
+    "crop": "Tomato",
+    "disease_or_topic": "Tomato Leaf Curl Virus (ToLCV)",
+    "scientific_name": "Begomovirus (transmitted by Bemisia tabaci)",
+    "pathogen_type": "Viral",
+    "symptoms": "Severe upward and inward curling and crumpling of leaflets. Vein clearing, interveinal chlorosis (yellowing), marked stunting of plants, shortening of internodes, and bushy appearance. Flowers shed and fruit set is severely reduced or absent.",
+    "causes": "Transmitted by the sweetpotato whitefly (Bemisia tabaci). Higher temperatures and dry spells accelerate whitefly reproduction and dispersal.",
+    "organic_remedies": "Yellow sticky cards (25-30 traps/acre) placed just above crop canopy. 2% Neem oil (Azadirachtin 1500 ppm) or Karanja oil sprays to deter whitefly vector oviposition and feeding.",
+    "chemical_guidelines": "Advisory note: Viral diseases cannot be cured once inside the plant; management focuses strictly on vector control. Systemic insecticides such as Imidacloprid (seedling dip) or Acetamiprid applied during vegetative stages under approved agronomic protocols.",
+    "preventive_measures": "Erect 40-50 mesh insect-proof nylon nets in nursery beds. Rogue out and safely destroy virus-infected plants during early vegetative stages. Plant border barrier crops (maize, sorghum, or pearl millet) to intercept incoming whitefly populations.",
+    "alternative_causes": [
+      "Physiological leaf roll caused by high temperatures, moisture stress, or excessive nitrogen",
+      "Herbicide damage (e.g., 2,4-D drift causes strap-like twisted leaves)",
+      "Mite infestation (causes downward leaf cupping and bronzing on the underside)"
+    ],
+    "sources": "ICAR-Indian Agricultural Research Institute (IARI) Division of Plant Pathology; TNAU Agritech Portal",
+    "tags": "viral, whitefly, leaf curl, stunting, chlorosis"
+  },
+  {
+    "crop": "Potato",
+    "disease_or_topic": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "pathogen_type": "Oomycete / Fungal-like",
+    "symptoms": "Water-soaked irregular blackish-brown spots on leaf tips and margins that expand rapidly across foliage. In morning dew or humid weather, white mildew forms on the lesion borders on leaf undersides. Tuber infection shows dry brown granular rot underneath skin.",
+    "causes": "High humidity (>85%), temperatures between 10°C and 20°C, persistent morning fog or prolonged rain spells. Carried through infected seed tubers and cull piles.",
+    "organic_remedies": "Preventive sprays of Bordeaux mixture (1%) or Copper hydroxide; Trichoderma harzianum soil and foliar treatments.",
+    "chemical_guidelines": "Advisory note: Apply prophylactic contact sprays (Mancozeb 2.5 kg/ha). If outbreak triggers occur based on temperature-humidity models, curative fungicides like Dimethomorph or Metalaxyl with Mancozeb should be deployed strictly per extension guidelines.",
+    "preventive_measures": "Plant certified pathogen-free seed tubers. Hill up well to provide a soil barrier preventing sporangia from washing down to tubers. Destroy cull piles before planting. Practice dehaulming (destroying vines) 10-14 days before harvest.",
+    "alternative_causes": [
+      "Early blight (target-like concentric rings, attacks older foliage first, no white fuzzy margins)",
+      "Blackleg (bacterial, wet dark stem bases with foul odor)",
+      "Hail or mechanical injury (localized tears without spreading water-soaked margins)"
+    ],
+    "sources": "Central Potato Research Institute (CPRI) Shimla; International Potato Center (CIP)",
+    "tags": "potato, late blight, phytophthora, cool weather, fog"
+  },
+  {
+    "crop": "Potato",
+    "disease_or_topic": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "pathogen_type": "Fungal",
+    "symptoms": "Circular to angular dark brown spots with well-defined concentric rings on mature leaflets. Spots may coalesce, causing the leaf to turn yellow, dry up and droop while remaining attached to the stem.",
+    "causes": "Alternating dry and wet weather periods, warm daytime temperatures (24-30°C), nutrient stress (nitrogen or potassium deficiency accelerates susceptibility).",
+    "organic_remedies": "Foliar application of Bacillus subtilis strains or copper-based sprays; bio-fungicides paired with balanced potassium fertilization.",
+    "chemical_guidelines": "Advisory note: Apply protective fungicides such as Chlorothalonil or Mancozeb at first sign of lower leaf spotting.",
+    "preventive_measures": "Balanced crop nutrition (avoid nitrogen deficiency which predisposes older leaves). Maintain uniform soil moisture with sprinkler or drip management. Rotate with non-solanaceous crops.",
+    "alternative_causes": [
+      "Ozone injury (fine stippling without concentric rings)",
+      "Magnesium deficiency (interveinal yellowing without necrotic concentric rings)",
+      "Verticillium wilt (one-sided leaf wilting)"
+    ],
+    "sources": "CPRI Potato Technical Manual; University of Wisconsin Extension Plant Pathology",
+    "tags": "potato, early blight, alternaria, concentric rings"
+  },
+  {
+    "crop": "Rice",
+    "disease_or_topic": "Rice Blast",
+    "scientific_name": "Magnaporthe oryzae (Pyricularia oryzae)",
+    "pathogen_type": "Fungal",
+    "symptoms": "Spindle-shaped or eye-shaped lesions with gray or whitish centers and reddish-brown borders on leaves. Lesions can enlarge and coalesce, leading to entire leaf blighting ('leaf blast'). Attacks nodes causing lodging ('node blast') and panicle base causing white unfilled heads ('neck blast').",
+    "causes": "High relative humidity (>90%), leaf wetness for 10-14 hours, moderate temperatures (20-28°C), and excessive nitrogen fertilization.",
+    "organic_remedies": "Seed treatment with Pseudomonas fluorescens (10g/kg seed). Foliar spray of fresh leaf extract of Tulsi or Neem (5%) or cow urine fermented extract.",
+    "chemical_guidelines": "Advisory note: Seed soaking in Carbendazim or Tricyclazole. Foliar spraying of Tricyclazole 75% WP (0.6g/L) or Isoprothiolane (1.5ml/L) at boot-leaf or panicle emergence stage if blast risk indices are exceeded.",
+    "preventive_measures": "Avoid excessive nitrogen application; split nitrogen into 3-4 applications based on leaf color chart (LCC). Maintain continuous shallow water layer in paddy during susceptible stages. Use certified blast-tolerant cultivars.",
+    "alternative_causes": [
+      "Brown spot (oval spots with yellow halos, lacks pointed spindle tips of blast)",
+      "Bacterial leaf blight (linear yellowish-white stripes starting from leaf tips down margins)",
+      "Zinc deficiency / Khaira disease (rusty brown blotches on middle leaves without distinct spindle borders)"
+    ],
+    "sources": "ICAR-National Rice Research Institute (NRRI) Cuttack; International Rice Research Institute (IRRI) Rice Knowledge Bank",
+    "tags": "rice, blast, spindle-shaped, neck blast, nitrogen excess"
+  },
+  {
+    "crop": "Rice",
+    "disease_or_topic": "Bacterial Leaf Blight (BLB)",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae",
+    "pathogen_type": "Bacterial",
+    "symptoms": "Water-soaked stripes developing along the leaf margins, usually starting from tips and moving downwards. Lesions enlarge, turn yellowish-orange to grayish-white with wavy or undulating margins. Milky bacterial ooze beads may be observed on young lesions in early morning dew.",
+    "causes": "Strong winds, typhoon or heavy rainstorms causing leaf clipping and micro-wounds. Warm temperatures (25-34°C) and high humidity with standing deep stagnant water.",
+    "organic_remedies": "Foliar spray of fresh cow dung slurry supernatant (20%) filtered through fine cloth; seed treatment with Pseudomonas fluorescens strain Pf1.",
+    "chemical_guidelines": "Advisory note: Apply Streptocycline (0.1g/L) combined with Copper Oxychloride (1.25g/L) at appearance of first symptoms under agricultural authority guidance.",
+    "preventive_measures": "Drain field for 2-3 days during disease outbreak to reduce canopy humidity. Avoid deep standing water. Do not trim seedling tips during transplanting as wounds are primary bacterial entry portals. Avoid excess urea dressing.",
+    "alternative_causes": [
+      "Bacterial leaf streak (interveinal narrow streaks confined by veins)",
+      "Rice blast (spindle-shaped with gray centers rather than undulating margin stripes)",
+      "Salinity injury (bleached leaf tips without bacterial ooze or wavy borders)"
+    ],
+    "sources": "IRRI Rice Knowledge Bank; Directorate of Rice Research (ICAR-IIRR) Hyderabad",
+    "tags": "rice, bacterial blight, leaf margin, bacterial ooze, water-soaked"
+  },
+  {
+    "crop": "Maize",
+    "disease_or_topic": "Fall Armyworm Infestation",
+    "scientific_name": "Spodoptera frugiperda",
+    "pathogen_type": "Pest",
+    "symptoms": "Windowpaning on leaves caused by early instar larvae. Older larvae produce extensive shot-hole tears and ragged shredded whorl leaves with abundant sawdust-like moist brownish frass in the central whorl. Damage to tassel and cob kernels.",
+    "causes": "Warm climate, continuous maize monoculture, presence of host grasses, dry conditions favoring migratory moth flights.",
+    "organic_remedies": "Pheromone traps (5-10 traps/acre) for monitoring. Application of Bacillus thuringiensis (Bt) kurstaki (2g/L) or Metarhizium anisopliae / Beauveria bassiana. Soil/sand/wood-ash placement into central leaf whorls.",
+    "chemical_guidelines": "Advisory note: Spraying of Chlorantraniliprole 18.5% SC (0.4ml/L) or Spinetoram 11.7% SC (0.5ml/L) targeted directly into the whorl where larvae feed. Follow local IPM resistance management schedules.",
+    "preventive_measures": "Early and uniform community sowing. Intercropping maize with pulses (e.g., cowpea or pigeonpea) or 'push-pull' strategy with Desmodium and Napier grass. Handpicking egg masses and early instars.",
+    "alternative_causes": [
+      "Maize stem borer (Chilo partellus, produces parallel rows of pinholes across the leaf blade)",
+      "Corn earworm (Helicoverpa zea, predominantly attacks silk and ear tip)",
+      "Grasshopper feeding (irregular jagged leaf margin feeding without deep whorl frass)"
+    ],
+    "sources": "ICAR-Indian Institute of Maize Research (IIMR); CABI Fall Armyworm Portal",
+    "tags": "maize, corn, fall armyworm, whorl damage, frass"
+  },
+  {
+    "crop": "Maize",
+    "disease_or_topic": "Northern Corn Leaf Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "pathogen_type": "Fungal",
+    "symptoms": "Long, elliptical, cigar-shaped grayish-green to tan lesions (2.5 to 15 cm long) developing on lower leaves and progressing upwards. Under moist weather, dark olive-colored fungal sporulation is visible on lesion surfaces.",
+    "causes": "Moderate temperatures (18-27°C) accompanied by extended periods of leaf dew (6-12 hours). Survives in maize residue.",
+    "organic_remedies": "Bio-fungicides containing Trichoderma or Bacillus amyloliquefaciens; compost extract application.",
+    "chemical_guidelines": "Advisory note: Prophylactic fungicide sprays (Mancozeb or Azoxystrobin + Difenoconazole) when lesions appear before tasseling on susceptible hybrids.",
+    "preventive_measures": "Plant resistant/tolerant hybrids. Deep tillage to bury maize residue after harvest. 2-year rotation with non-host crops such as soybean or cotton.",
+    "alternative_causes": [
+      "Southern corn leaf blight (smaller, rectangular lesions restricted by leaf veins)",
+      "Stewart's wilt (bacterial streaks with irregular flea beetle feeding scars)",
+      "Drought scorch (tips and margins turn brown without distinct cigar shapes)"
+    ],
+    "sources": "ICAR-IIMR Disease Identification Guide; Purdue University Extension Field Crops",
+    "tags": "maize, northern corn leaf blight, cigar shaped, fungal"
+  },
+  {
+    "crop": "Wheat",
+    "disease_or_topic": "Yellow (Stripe) Rust",
+    "scientific_name": "Puccinia striiformis f. sp. tritici",
+    "pathogen_type": "Fungal",
+    "symptoms": "Bright yellowish-orange, powdery pustules (uredinia) arranged in distinct, continuous parallel stripes along the leaf veins of seedlings and adult plants. Infected leaves chlorose and dry prematurely.",
+    "causes": "Cool, humid weather (temperatures of 10-15°C with intermittent rain or heavy dew). Pathogen spores can be transported hundreds of kilometers by wind.",
+    "organic_remedies": "Foliar application of biocontrol agents (Trichoderma viride); milk whey and botanical plant extracts at early vegetative stages.",
+    "chemical_guidelines": "Advisory note: At the first detection of yellow rust foci, spray Propiconazole 25% EC (1ml/L) or Tebuconazole (1ml/L). Repeat after 15 days if cool humid conditions persist.",
+    "preventive_measures": "Sow recommended rust-resistant wheat varieties (e.g., HD-2967, DBW-187 as certified by regional agricultural universities). Timely sowing in November to avoid late-season rust flares. Eradicate volunteer wheat seedlings.",
+    "alternative_causes": [
+      "Leaf rust / Brown rust (randomly scattered orange-brown pustules, not in parallel stripes)",
+      "Powdery mildew (fluffy white or greyish powdery cushions on leaves and leaf sheaths)",
+      "Physiological leaf spot (speckling without yellow powdery spores that smudge onto fingers)"
+    ],
+    "sources": "ICAR-Indian Institute of Wheat and Barley Research (IIWBR) Karnal; CIMMYT Wheat Rust Global Program",
+    "tags": "wheat, yellow rust, stripe rust, puccinia, cool weather"
+  },
+  {
+    "crop": "Cotton",
+    "disease_or_topic": "Cotton Leaf Curl Virus (CLCuV)",
+    "scientific_name": "Begomovirus (Whitefly-transmitted)",
+    "pathogen_type": "Viral",
+    "symptoms": "Upward or downward leaf curling, thickening and darkening of leaf veins (vein swelling), and development of small leaf-like outgrowths ('enations') on the underside of main veins. Severe stunting of plants and reduction in square and boll formation.",
+    "causes": "Transmitted by whitefly (Bemisia tabaci). Hot and dry weather followed by intermittent showers fosters high whitefly populations.",
+    "organic_remedies": "Install yellow sticky traps (15-20/acre); foliar spray of 5% Neem seed kernel extract (NSKE); spray castor oil coated yellow sheets along field borders.",
+    "chemical_guidelines": "Advisory note: Vector suppression using systemic insecticides (e.g., Flonicamid 50% WG or Diafenthiuron 50% WP) strictly adhering to cotton pest management advisory schedules.",
+    "preventive_measures": "Grow CLCuV-resistant cotton hybrids. Timely eradication of alternate weed hosts (Abutilon indicum, Sida cordifolia). Avoid staggered sowing in the same region. Do not plant cotton adjacent to lady's finger (okra).",
+    "alternative_causes": [
+      "Thrips damage (crinkling with silvering on underside of leaf blade)",
+      "Aphid curling (downward cupping accompanied by sticky honeydew and sooty mold)",
+      "Herbicide drift (hormonal distortion without enations on vein undersides)"
+    ],
+    "sources": "ICAR-Central Institute for Cotton Research (CICR) Nagpur; Punjab Agricultural University Extension Bulletin",
+    "tags": "cotton, leaf curl, enation, whitefly, begomovirus"
+  },
+  {
+    "crop": "Cotton",
+    "disease_or_topic": "Bacterial Blight / Angular Leaf Spot",
+    "scientific_name": "Xanthomonas citri subsp. malvacearum",
+    "pathogen_type": "Bacterial",
+    "symptoms": "Angular, water-soaked lesions bounded by veinlets on the underside of leaves. Lesions turn reddish-brown to dark black ('angular leaf spot'). Can infect veins ('vein blight'), petioles and stems ('black arm' phase leading to broken branches), and bolls ('boll rot').",
+    "causes": "Warm temperatures (28-35°C), high relative humidity (>85%), wind-blown rain and overhead water splashing. Seed-borne and residue-borne pathogen.",
+    "organic_remedies": "Delinting seed with concentrated sulfuric acid or hot water treatment; seed treatment with Pseudomonas fluorescens (10g/kg).",
+    "chemical_guidelines": "Advisory note: Spraying Streptocycline (100 ppm) + Copper Oxychloride (0.25%) at initial manifestation. Repeat at 12-15 day intervals if wet weather persists.",
+    "preventive_measures": "Use certified acid-delinted seed. Deep summer plowing to bury cotton stalks and infected debris. Avoid excessive nitrogenous fertilizers. Maintain adequate drainage to avoid waterlogging.",
+    "alternative_causes": [
+      "Alternaria leaf spot (circular spots with concentric rings, not strictly angular)",
+      "Cercospora leaf spot (small reddish spots with white centers)",
+      "Magnesium deficiency (interveinal reddening without water-soaked angular borders)"
+    ],
+    "sources": "ICAR-CICR Cotton Pathology Compendium; Mississippi State University Cotton Extension",
+    "tags": "cotton, angular leaf spot, black arm, bacterial blight, water-soaked"
+  },
+  {
+    "crop": "General",
+    "disease_or_topic": "Healthy Crop Baseline",
+    "scientific_name": "N/A",
+    "pathogen_type": "Healthy",
+    "symptoms": "Uniform vibrant green leaf coloration, intact leaf margins, active new shoot growth, balanced turgor, absence of necrotic lesions, chlorotic mosaics, or fungal sporulation.",
+    "causes": "Optimal soil nutrients, balanced irrigation, adequate sunlight, low pest and pathogen inoculum pressure.",
+    "organic_remedies": "Maintain routine soil health practices: apply well-decomposed farmyard manure (FYM) or vermicompost (2-3 tonnes/acre); periodic microbial inoculants (Azotobacter, Phosphobacteria).",
+    "chemical_guidelines": "No protective or curative chemical intervention required. Continue routine soil testing every 2 seasons.",
+    "preventive_measures": "Weekly scouting of leaf undersides and apical shoots. Maintain field sanitation and drip irrigation schedules.",
+    "alternative_causes": [],
+    "sources": "National Centre for Organic and Natural Farming (NCONF) Guidelines; ICAR Agronomy Standards",
+    "tags": "healthy, vigorous, baseline, preventive"
+  }
+]
